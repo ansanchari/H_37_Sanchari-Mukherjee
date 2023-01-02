@@ -1,0 +1,14 @@
+Name of the student : Samantha LaRusso 
+Class Roll of the student : 39 
+Stream of the student : IT 
+Your Student ID is : IT2039
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 77 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 71 
+Marks obtained in Biology is : 45 
+Marks obtained in English is : 85 
+
+You have got 414 in total with 69%
+Your performance is average... Work hard... You have passed the exam with grade D.

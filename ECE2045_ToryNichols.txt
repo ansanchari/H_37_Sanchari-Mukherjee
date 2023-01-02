@@ -1,0 +1,14 @@
+Name of the student : Tory Nichols 
+Class Roll of the student : 45 
+Stream of the student : ECE 
+Your Student ID is : ECE2045
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 92 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 99 
+
+You have got 574 in total with 95%
+Outstanding Performance... You have passed the exam with grade A.

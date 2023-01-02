@@ -1,0 +1,14 @@
+Name of the student : Robby Keene Lawrence 
+Class Roll of the student : 32 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI1832
+
+Marks obtained in Math is : 92 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 90 
+Marks obtained in Chemistry is : 87 
+Marks obtained in Biology is : 80 
+Marks obtained in English is : 96 
+
+You have got 530 in total with 88%
+Excellent Performance... You have passed the exam with grade B.

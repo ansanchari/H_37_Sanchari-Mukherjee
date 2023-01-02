@@ -1,0 +1,14 @@
+Name of the student : Tanmay Bhat 
+Class Roll of the student : 47 
+Stream of the student : CSEIOTCSBT 
+Your Student ID is : CSEIOTCSBT2247
+
+Marks obtained in Math is : 91 
+Marks obtained in Python is : 94 
+Marks obtained in Physics is : 85 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 99 
+
+You have got 550 in total with 91%
+Outstanding Performance... You have passed the exam with grade A.

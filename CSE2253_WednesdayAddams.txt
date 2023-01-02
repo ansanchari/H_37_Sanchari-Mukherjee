@@ -1,0 +1,14 @@
+Name of the student : Wednesday Addams 
+Class Roll of the student : 53 
+Stream of the student : CSE 
+Your Student ID is : CSE2253
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 66 
+Marks obtained in Chemistry is : 69 
+Marks obtained in Biology is : 51 
+Marks obtained in English is : 79 
+
+You have got 420 in total with 70%
+Good Performance... You have passed the exam with grade C.

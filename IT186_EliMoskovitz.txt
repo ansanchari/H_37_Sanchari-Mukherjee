@@ -1,0 +1,14 @@
+Name of the student : Eli Moskovitz 
+Class Roll of the student : 6 
+Stream of the student : IT 
+Your Student ID is : IT186
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : 87 
+Marks obtained in Physics is : 72 
+Marks obtained in Chemistry is : 85 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 66 
+
+You have got 470 in total with 78%
+Good Performance... You have passed the exam with grade C.

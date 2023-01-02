@@ -1,0 +1,14 @@
+Name of the student : Xavier Thorpe 
+Class Roll of the student : 68 
+Stream of the student : ECE 
+Your Student ID is : ECE2268
+
+Marks obtained in Math is : 20 
+Marks obtained in Python is : 25 
+Marks obtained in Physics is : 14 
+Marks obtained in Chemistry is : 31 
+Marks obtained in Biology is : 44 
+Marks obtained in English is : 31 
+
+You have got 165 in total with 27%
+Extremely poor performance... You have Failed the Exam and got F.
